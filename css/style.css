@@ -86,3 +86,12 @@ div.scrollmenu a:hover {
       font-size: 14px;
     }
 
+    a:link {
+      text-decoration: none;
+      color:  rgba(152, 197, 191, 0.788);
+      
+    }
+
+    a:visited {
+      color: rgba(152, 197, 191, 0.788);
+    }
